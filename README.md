@@ -53,7 +53,7 @@ Cochin University of Science and Technology, India
 
 💼 [LinkedIn](https://www.linkedin.com/in/devi-sasankan-671b42247/)  
 💻 [GitHub](https://github.com/DeviSasankan)  
-📧 [Email: devisasankan90@gmail.com](mailto:devisasankan90@gmail.com)
+📧 Email:[devisasankan90@gmail.com](mailto:devisasankan90@gmail.com)
 
 ---
 
