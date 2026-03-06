@@ -1,4 +1,4 @@
-## Hi I'm Devi 👋
+## 👋 Hi I'm Devi
 
 <!--
 **DeviSasankan/DeviSasankan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
