@@ -39,32 +39,6 @@ I enjoy building **automated dashboards, analysing KPIs, and uncovering trends**
 
 ---
 
-## 📊 Featured Projects
-
-### 📈 Marketing Analytics – ABC Shop Business Case
-* Analysed customer purchase behaviour and marketing performance
-* Built insights that improved campaign targeting
-* Used **Python, Pandas, and data visualisation**
-
-### 💰 Discount Sales Analysis
-* Analysed impact of discount strategies on revenue
-* Identified trends affecting profitability
-* Delivered actionable recommendations
-
-### 🧪 Investigation into Randomized Controlled Trials (RCTs)
-* Explored causal inference in marketing experiments
-* Analysed experimental datasets to measure treatment effects
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeviSasankan&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeviSasankan&layout=compact)
-
----
-
 ## 🎓 Education
 
 🎓 **MSc Data Science (Distinction)**  
