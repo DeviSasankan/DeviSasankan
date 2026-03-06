@@ -1,7 +1,4 @@
-## 👋 Hi I'm Devi
 # Hi 👋 I'm Devi Sasankan
-
-🎯 **Data Analyst | Business Intelligence | Power BI | SQL | Python**
 
 Analytical and results-driven **Data Analyst with 5+ years of experience** in business intelligence, reporting, and insight generation. I specialize in transforming complex datasets into actionable insights that support strategic decision-making.
 
@@ -14,9 +11,7 @@ I enjoy building **automated dashboards, analysing KPIs, and uncovering trends**
 * 📊 5+ years experience in **Data Analytics & Business Intelligence**
 * 📈 Expert in **Power BI dashboards, KPI analysis, and data visualization**
 * 🐍 Experienced with **Python for data analysis**
-* 🗄 Skilled in **SQL (Joins, CTEs, Aggregations)**
-* ⚙️ Automated reporting workflows reducing manual effort by **80%**
-* 📉 Delivered insights that reduced operational costs by **25%**
+* 🗄 Skilled in **SQL (Joins, CTEs, Aggregations)** 
 * 🌍 Based in **UAE**
 
 ---
@@ -77,15 +72,6 @@ Leeds Beckett University, UK
 
 🎓 **BTech Information Technology**  
 Cochin University of Science and Technology, India
-
----
-
-## 📜 Certifications
-
-* Microsoft Power BI Data Analyst Associate (PL-300) – *In Progress*
-* Power BI Master Class – Dashboards & Power BI Service
-* Google Digital Marketing & E-commerce
-* Introduction to Artificial Intelligence
 
 ---
 
